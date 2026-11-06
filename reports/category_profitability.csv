@@ -1,0 +1,9 @@
+category_name,total_orders,total_items_sold,total_gmv,total_freight,gross_profit,profit_margin_pct,freight_burden_pct
+Computers & Laptops,1740,1836,1612040.23,23778.81,695989.99,43.2,1.5
+Smartphones & Accessories,2384,2526,1010979.01,21333.43,418817.51,41.4,2.1
+Automotive & Tools,1544,1612,277629.63,23195.5,113249.03,40.8,7.7
+Fashion & Apparel,2482,2633,174583.18,22457.35,77579.13,44.4,11.4
+Home & Kitchen,1376,1425,165069.27,17331.69,72976.3,44.2,9.5
+Sports & Fitness,1365,1420,148594.9,16141.37,62247.52,41.9,9.8
+Beauty & Personal Care,1536,1605,69429.96,13175.67,27587.14,39.7,16.0
+Books & Stationery,1646,1727,50184.3,15073.76,21240.34,42.3,23.1
