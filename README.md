@@ -1,11 +1,13 @@
 # E-Commerce Customer Lifecycle & Revenue Intelligence System
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://pasupuletimahima-ecommerce-customer-revenue-intellig-app-6zblbe.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/Dialect-MySQL%208.0+-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-Visuals-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Data Modeling](https://img.shields.io/badge/Schema-Star_Schema-green)](#-data-architecture-star-schema)
+
+> 🚀 **Live Interactive Web Application:** [**Launch Live Dashboard in Browser**](https://pasupuletimahima-ecommerce-customer-revenue-intellig-app-6zblbe.streamlit.app/) *(Hosted on Streamlit Community Cloud)*
 
 An end-to-end commercial analytics system evaluating **10,408 orders**, **6,000 customers**, and **\$3.51M in Gross Merchandise Value (GMV)**. This project diagnoses customer churn, builds a monthly cohort retention matrix, executes quintile-based RFM customer segmentation, and features a **live interactive Streamlit web dashboard**.
 
@@ -190,6 +192,8 @@ pip install -r requirements.txt
 ```
 
 ### 2. Launch the Interactive Web Dashboard
+* 🌐 **Live Cloud Version:** [**Click to Open Live Dashboard**](https://pasupuletimahima-ecommerce-customer-revenue-intellig-app-6zblbe.streamlit.app/) *(Instant access, no installation required)*
+* 💻 **Or Run Locally:**
 ```bash
 streamlit run app.py
 ```
